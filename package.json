@@ -1,14 +1,16 @@
 {
+  "dependencies": {
+    "express": "^4.18.2"
+  },
   "name": "webserver",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main2"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "description": ""
 }
